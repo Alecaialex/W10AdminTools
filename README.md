@@ -1,5 +1,5 @@
 # AlexAdminTools
-Script de windows con herramientas de administrador para gestionar los usuarios de un equipo
+Script para Windows 10 con herramientas de administrador para gestionar los usuarios de un equipo
 
 Herramientas actuales:
 * Añadir usuarios
