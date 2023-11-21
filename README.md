@@ -1,11 +1,13 @@
-# AlexAdminTools
-Script para Windows 10 con herramientas de administrador para gestionar los usuarios de un equipo
+# W10AdminTools
+Script for Windows 10 with administrator tools to manage users on a computer.
 
-Herramientas actuales:
-* Añadir usuarios
-* Eliminar usuarios
-* Cambiar contraseñas de cuentas
-* Añadir usuarios al grupo de administradores
-* Eliminar usuarios del grupo de administradores
-* Deshabilitar usuarios
-* Habilitar usuarios
+Current tools include:
+
+* Add users
+* Remove users
+* Change account passwords
+* Add users to the administrators group
+* Remove users from the administrators group
+* Disable users
+* Enable users
+
